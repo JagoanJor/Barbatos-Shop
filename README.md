@@ -12,10 +12,10 @@
 ## Profile
 ![Screenshot (500)](https://github.com/JagoanJor/Barbatos-Shop/assets/114795333/e2fcf568-12bd-4b70-8ad8-6344de885545)
 
-## Category List
+## Category Page
 ![Screenshot (501)](https://github.com/JagoanJor/Barbatos-Shop/assets/114795333/c6998233-2486-425d-b396-c2bd0df888a8)
 
-## Category Pag
+## Manage Product Page
 ![Screenshot (502)](https://github.com/JagoanJor/Barbatos-Shop/assets/114795333/6bba15d0-ddf6-40d9-a095-f0a8ea3d25e3)
 
 ## Item Detail
